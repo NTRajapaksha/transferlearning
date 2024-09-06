@@ -62,4 +62,5 @@ Optimizer: Adam optimizer was chosen for its adaptive learning rate capabilities
 ### 6. Model Evaluation and Prediction
 
 The model was evaluated on a test set and demonstrated excellent performance.
+
 A custom function was used to visualize predictions on test images, showing the model's ability to correctly classify unseen data.
