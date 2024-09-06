@@ -29,7 +29,8 @@ Zooming.
 
 MobileNetV2 is a lightweight and efficient convolutional neural network (CNN) architecture developed by Google for mobile and embedded vision applications. It is designed to perform well on classification tasks with lower computational resources.
 
-#### Pre-trained on ImageNet: The model used in this project is pre-trained on the ImageNet dataset, allowing us to leverage pre-learned features, a technique known as transfer learning. This helps improve accuracy even with small datasets.
+#### Pre-trained on ImageNet: 
+The model used in this project is pre-trained on the ImageNet dataset, allowing us to leverage pre-learned features, a technique known as transfer learning. This helps improve accuracy even with small datasets.
 
 #### Key Features of MobileNetV2:
 
