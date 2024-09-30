@@ -1,4 +1,4 @@
-# Binary Image Classification with MobileNetV2 Using Transfer Learning
+# Binary Image Classification with MobileNetV2 and VGG16 Using Transfer Learning
 
 ## Project Overview 
 
